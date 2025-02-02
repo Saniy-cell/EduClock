@@ -1,34 +1,36 @@
-# [Project Name] 🎯
+# [Project Name:EduClock] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [hackWave]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [Saniya Ajith] - [College Of Engineering Munnar]
+- Member 2: [Ritharaj P] - [College Of Engineering Munnar]
+
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+
 
 ### Project Description
-[2-3 lines about what your project does]
+Never Miss a Class
+
+Easily track your classroom schedule and get reminders before each period. Stay organized, be on time, and focus on learning!
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+Not knowing our next class leads to confusion, delays, and missed lessons. Stay organized to save time and stay on track!
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+We solve this by offering a clear, easy-to-access class schedule, ensuring students always know their next period without confusion or delays.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- HTML,CSS
+- javascript
+- javascript
+- vscode
 
 For Hardware:
 - [List main components]
@@ -48,13 +50,12 @@ For Software:
 
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+(https://drive.google.com/drive/folders/1ltXMi64pGeKciK9TZQuKJmVd5o1eaxwp?usp=sharing)
 
 ![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
+https://drive.google.com/drive/folders/1ltXMi64pGeKciK9TZQuKJmVd5o1eaxwp?usp=sharing
 ![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+https://drive.google.com/drive/folders/1ltXMi64pGeKciK9TZQuKJmVd5o1eaxwp?usp=sharing
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
@@ -84,16 +85,14 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://drive.google.com/drive/folders/1ltXMi64pGeKciK9TZQuKJmVd5o1eaxwp?usp=sharing
 
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Saniya Ajith-frontend,design
+-Ritharaj P-Backend(javascript)
 
 ---
 Made with ❤️ at TinkerHub
